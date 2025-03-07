@@ -1,5 +1,8 @@
 - 👋 Nothing here!
-
+- 
+---
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mohammad_norozani)
 ---
 # 📊 GitHub Stats:
 [![](https://visitcount.itsvg.in/api?id=Norozani&icon=0&color=12)](https://visitcount.itsvg.in)
